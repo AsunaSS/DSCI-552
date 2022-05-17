@@ -10,3 +10,6 @@
 | 5  | [Neural Network](HW5_Neural_Network/hw_5.pdf)  | [Answer5](HW5_Neural_Network/DSCI-552_HW5_Report_Chaoyu_Li.pdf) | 100/100 |
 | 6  | [SVM](HW6_SVM/hw_6.pdf)  | [Answer6](HW6_SVM/DSCI-552_HW6_Report_Chaoyu_Li.pdf) | 100/100 |
 | 7  | [HMM(Viterbi)](HW7_HMM/hw_7.pdf)  | [Answer7](HW7_HMM/DSCI-552_HW7_Report_Chaoyu_Li.pdf) | 100/100 |
+
+### [Personal Note](DSCI552_Note.pdf)
+
